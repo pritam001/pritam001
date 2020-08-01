@@ -1,11 +1,13 @@
-### Fancy seeing you here! <img alt="👋" src="https://raw.githubusercontent.com/pritam001/pritam001/master/assets/wave.gif" width="30px">
+### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/>! <img alt="👋" src="https://raw.githubusercontent.com/pritam001/pritam001/master/assets/wave.gif" width="30px">
 
+Please feel free to clone projects, raise issues and submit PRs. Open to help, contribute and explore sophisticated real-world open source projects.
+Ask me anything [here](https://github.com/pritam001/pritam001/issues/new) or connect here
 [![Linkedin Badge](https://img.shields.io/badge/-pritamsarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pritam-sarkar-3b4aab125/)](https://www.linkedin.com/in/pritam-sarkar-3b4aab125/)
 [![Medium Badge](https://img.shields.io/badge/-@pritam.sarkar-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pritam.sarkar/)](https://medium.com/@pritam.sarkar)
 [![Gmail Badge](https://img.shields.io/badge/-001pritam2012@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:001pritam2012@gmail.com)](mailto:001pritam2012@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-pritam._sarkar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pritam._sarkar/)](https://www.instagram.com/pritam._sarkar/)
 
-###### ⚡ Tools of Trade
+###### Tools of Trade
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -21,7 +23,7 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
-###### 🔭 Exploring
+###### Exploring
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
@@ -48,10 +50,9 @@
 
 ## Stats
 
-![Pritam's github stats](https://github-readme-stats.vercel.app/api?username=pritam001&show_icons=true&theme=radical)
+![Pritam's github stats](https://github-readme-stats.vercel.app/api?username=pritam001&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam001&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=pritam001.pritam001)
 
 <!--
 **pritam001/pritam001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
