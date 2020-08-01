@@ -33,6 +33,16 @@
 
 ## 🔭 Exploring
 
+
+## Bucketlist
+
+
+
+## Icebox
+
+
+## Stats
+
 ![Pritam's github stats](https://github-readme-stats.vercel.app/api?username=pritam001&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam001&hide=TeX&layout=compact)
 
