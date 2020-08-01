@@ -1,4 +1,4 @@
-### Fancy seeing you here! <img src="https://raw.githubusercontent.com/pritam001/pritam001/master/assets/wave.gif" width="30px">
+### Fancy seeing you here! <img alt="👋" src="https://raw.githubusercontent.com/pritam001/pritam001/master/assets/wave.gif" width="30px">
 
 <!--
 **pritam001/pritam001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
