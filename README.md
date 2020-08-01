@@ -25,7 +25,7 @@ Ask me anything [here](https://github.com/pritam001/pritam001/issues/new) or con
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-0DB33F?style=flat-square&logo=spring)
+![Spring](https://img.shields.io/badge/-Spring-006400?style=flat-square&logo=spring)
 
 ![Exploring](https://img.shields.io/badge/🔭-Exploring-%23003545?style=flat-square)
 ![Akka](https://img.shields.io/badge/-Akka-009DB1?style=flat-square&logo=akka)
