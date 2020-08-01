@@ -5,8 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-001pritam2012@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:001pritam2012@gmail.com)](mailto:001pritam2012@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-pritam._sarkar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pritam._sarkar/)](https://www.instagram.com/pritam._sarkar/)
 
-## ⚡ Tools of Trade
-
+###### ⚡ Tools of Trade
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -22,14 +21,14 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
-## 🔭 Exploring
+###### 🔭 Exploring
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 
-## Bucketlist
+###### Bucketlist
 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
@@ -41,7 +40,7 @@
 
 
 
-## Icebox
+###### Icebox
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
