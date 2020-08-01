@@ -28,6 +28,8 @@ Ask me anything [here](https://github.com/pritam001/pritam001/issues/new) or con
 ![Spring](https://img.shields.io/badge/-Spring-0DB33F?style=flat-square&logo=spring)
 
 ![Exploring](https://img.shields.io/badge/🔭-Exploring-%23003545?style=flat-square)
+![Akka](https://img.shields.io/badge/-Akka-009DB1?style=flat-square&logo=akka)
+![Axon](https://img.shields.io/badge/-Axon-FF7D00?style=flat-square&logo=axon)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apachecassandra)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
@@ -49,7 +51,7 @@ Ask me anything [here](https://github.com/pritam001/pritam001/issues/new) or con
 ## Stats
 
 ![Pritam's github stats](https://github-readme-stats.vercel.app/api?username=pritam001&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam001&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam001&hide=TeX&layout=compact&theme=dracula)
 
 
 <!--
