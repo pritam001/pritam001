@@ -51,7 +51,9 @@ Ask me anything [here](https://github.com/pritam001/pritam001/issues/new) or con
 ## Stats
 
 ![Pritam's github stats](https://github-readme-stats.vercel.app/api?username=pritam001&show_icons=true&theme=merko)
+<!-- currently not working as intended
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritam001&hide=TeX,ShaderLab,ASP&layout=compact&theme=dracula)
+-->
 
 
 <!--
