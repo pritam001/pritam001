@@ -42,10 +42,16 @@ Ask me anything [here](https://github.com/pritam001/pritam001/issues/new) or con
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![SVG](https://img.shields.io/badge/-SVG-FFB13B?style=flat-square&logo=SVG&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 
 ![Icebox](https://img.shields.io/badge/❄️-Icebox-%23003545?style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks)
+![C#](https://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=C-Sharp)
+![Unity Engine](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity)
+![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=Unreal-Engine)
 
 
 ## Stats
