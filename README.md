@@ -41,6 +41,7 @@ Ask me anything [here](https://github.com/pritam001/pritam001/issues/new) or con
 ![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=Apache-Cassandra&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=Apache-Kafka)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 ![Bucketlist](https://img.shields.io/badge/📜-Bucketlist-%23003545?style=flat-square)
@@ -54,7 +55,7 @@ Ask me anything [here](https://github.com/pritam001/pritam001/issues/new) or con
 ![SVG](https://img.shields.io/badge/-SVG-FFB13B?style=flat-square&logo=SVG&logoColor=black)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white)
 
-![Icebox](https://img.shields.io/badge/❄️-Icebox-%23003545?style=flat-square)
+![Icebox](https://img.shields.io/badge/⛄-Icebox-%23003545?style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
