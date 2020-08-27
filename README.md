@@ -39,6 +39,7 @@ Ask me anything [here](https://github.com/pritam001/pritam001/issues/new) or con
 ![D3Js](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=D3.js&logoColor=white)
 ![Akka](https://img.shields.io/badge/-Akka-009DB1?style=flat-square&logo=akka)
 ![Axon](https://img.shields.io/badge/-Axon-FF7D00?style=flat-square&logo=axon)
+![gRPC](https://img.shields.io/badge/-gRPC-00AFAC?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=Apache-Cassandra&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=Apache-Kafka)
