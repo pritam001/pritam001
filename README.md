@@ -59,6 +59,10 @@ Ask me anything [here](https://github.com/pritam001/pritam001/issues/new) or con
 ![SVG](https://img.shields.io/badge/-SVG-FFB13B?style=flat-square&logo=SVG&logoColor=black)
 ![Akka](https://img.shields.io/badge/-Akka-009DB1?style=flat-square&logo=akka)
 ![Axon](https://img.shields.io/badge/-Axon-FF7D00?style=flat-square&logo=axon)
+![Reason](https://img.shields.io/badge/-Reason-DD4B39?style=flat-square&logo=Reason&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat-square&logo=WebAssembly&logoColor=white)
+![Elm](https://img.shields.io/badge/-Elm-1293D8?style=flat-square&logo=Elm&logoColor=black)
+
 
 ![Icebox](https://img.shields.io/badge/⛄-Icebox-%23003545?style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
