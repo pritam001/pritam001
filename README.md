@@ -51,18 +51,18 @@ Ask me anything [here](https://github.com/pritam001/pritam001/issues/new) or con
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=Rust&logoColor=white)
 
 ![Bucketlist](https://img.shields.io/badge/📜-Bucketlist-%23003545?style=flat-square)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
+![Reason](https://img.shields.io/badge/-Reason-DD4B39?style=flat-square&logo=Reason&logoColor=white)
+![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat-square&logo=WebAssembly&logoColor=white)
+![Elixir](https://img.shields.io/badge/-Elixir-4B275F?style=flat-square&logo=Elixir&logoColor=white)
 ![Spark](https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=Apache-Spark&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![SVG](https://img.shields.io/badge/-SVG-FFB13B?style=flat-square&logo=SVG&logoColor=black)
 ![Akka](https://img.shields.io/badge/-Akka-009DB1?style=flat-square&logo=akka)
 ![Axon](https://img.shields.io/badge/-Axon-FF7D00?style=flat-square&logo=axon)
-![Reason](https://img.shields.io/badge/-Reason-DD4B39?style=flat-square&logo=Reason&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat-square&logo=WebAssembly&logoColor=white)
 ![Elm](https://img.shields.io/badge/-Elm-1293D8?style=flat-square&logo=Elm&logoColor=black)
-
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ![Icebox](https://img.shields.io/badge/⛄-Icebox-%23003545?style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
