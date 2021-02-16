@@ -1,6 +1,6 @@
 ### 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛/>! <img alt="👋" src="https://raw.githubusercontent.com/pritam001/pritam001/master/assets/wave.gif" width="30px">
 
-Please feel free to clone projects, raise issues and submit PRs. Open to help, contribute and explore sophisticated real-world open source projects.
+Please feel free to clone projects, raise issues and submit PRs. Open to help, contribute and explore interesting open source projects.
 Ask me anything [here](https://github.com/pritam001/pritam001/issues/new) or connect here.
 
 [![Linkedin Badge](https://img.shields.io/badge/-pritamsarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pritam-sarkar-3b4aab125/)](https://www.linkedin.com/in/pritam-sarkar-3b4aab125/)
