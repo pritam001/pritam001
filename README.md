@@ -3,7 +3,7 @@
 Please feel free to clone projects, raise issues and submit PRs. Open to help, contribute and explore interesting open source projects.
 Ask me anything [here](https://github.com/pritam001/pritam001/issues/new) or connect here.
 
-[![Linkedin Badge](https://img.shields.io/badge/-pritamsarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pritam-sarkar-3b4aab125/)](https://www.linkedin.com/in/pritam-sarkar-3b4aab125/)
+[![Linkedin Badge](https://img.shields.io/badge/-pritamsarkar001-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pritamsarkar001/)](https://www.linkedin.com/in/pritamsarkar001/)
 [![Medium Badge](https://img.shields.io/badge/-@pritam.sarkar-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pritam.sarkar/)](https://medium.com/@pritam.sarkar)
 [![Gmail Badge](https://img.shields.io/badge/-officiallypritamsarkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:officiallypritamsarkar@gmail.com)](mailto:officiallypritamsarkar@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-pritam._sarkar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pritam._sarkar/)](https://www.instagram.com/pritam._sarkar/)
