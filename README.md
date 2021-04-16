@@ -5,7 +5,7 @@ Ask me anything [here](https://github.com/pritam001/pritam001/issues/new) or con
 
 [![Linkedin Badge](https://img.shields.io/badge/-pritamsarkar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pritam-sarkar-3b4aab125/)](https://www.linkedin.com/in/pritam-sarkar-3b4aab125/)
 [![Medium Badge](https://img.shields.io/badge/-@pritam.sarkar-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@pritam.sarkar/)](https://medium.com/@pritam.sarkar)
-[![Gmail Badge](https://img.shields.io/badge/-001pritam2012@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:001pritam2012@gmail.com)](mailto:001pritam2012@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-officiallypritamsarkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:officiallypritamsarkar@gmail.com)](mailto:officiallypritamsarkar@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-pritam._sarkar-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pritam._sarkar/)](https://www.instagram.com/pritam._sarkar/)
 
 ###### Technologies
