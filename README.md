@@ -63,6 +63,7 @@ Ask me anything [here](https://github.com/pritam001/pritam001/issues/new) or con
 ![Axon](https://img.shields.io/badge/-Axon-FF7D00?style=flat-square&logo=axon)
 ![Elm](https://img.shields.io/badge/-Elm-1293D8?style=flat-square&logo=Elm&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Phoenix](https://img.shields.io/badge/-Phoenix-009DB1?style=flat-square&logo=Phoenix)
 
 ![Icebox](https://img.shields.io/badge/⛄-Icebox-%23003545?style=flat-square)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
